@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game> 
+	<frame width="760" height="700" size="3" paddle="7">
+		<block className="ui.ButtonBlock" x="430" y="50" w="300" h="120"></block>
+		<block className="ui.ExpBlock" x="430" y="330" w="300" h="150"></block>
+		<block className="ui.GameBlock" x="40" y="50" w="326" h="582"></block>
+		<block className="ui.LevelBlock" x="610" y="190" w="120" h="120"></block>
+		<block className="ui.NextBlock" x="430" y="190" w="180" h="120"></block>
+		<block className="ui.SignBlock" x="430" y="500" w="300" h="132"></block>
+		<block className="ui.BGBlock" x="0" y="0" w="760" h= "700"></block>
+	</frame>
+</game>
